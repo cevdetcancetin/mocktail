@@ -1,25 +1,25 @@
- # Mocktail Flow — Alcohol-Free Cocktail Recipes                                                                                                            
+# Mocktail — Alcohol-Free Cocktail Recipes                                                                                                                 
                                                                                                                                                              
-  Welcome to the official support and documentation page for **Mocktail Flow**.                                                                              
+  Welcome to the official support and documentation page for **Mocktail**.                                                                                   
                                                                                                                                                              
   ## 🎧 App Support                                                                                                                                          
                                                                   
   If you need any help with the app, found a bug, or have a feature request, please feel free to reach out to us. We are always happy to help!               
-                                                                  
+   
   📧 **Contact Email:** mocktailhelp@gmail.com                                                                                                               
                                                                   
   ---                                                                                                                                                        
                                                                   
-  ## 🔒 Privacy Policy                                                                                                                                       
-   
+  ## 🔒 Privacy Policy
+
   **Last Updated:** April 26, 2026                                                                                                                           
-                                                                  
-  ### 1. Information Collection                                                                                                                              
    
-  To improve and personalize your user experience, the following information may be collected:                                                               
+  ### 1. Information Collection                                                                                                                              
                                                                   
+  To improve and personalize your user experience, the following information may be collected:                                                               
+   
   - Favorite mocktails list                                                                                                                                  
-  - Personal notes you add to recipes
+  - Personal notes you add to recipes                             
   - "My Bar" (ingredients you have at home) selections                                                                                                       
   - App preferences (language, measurement unit, appearance, notification settings)                                                                          
   - Onboarding completion status                                                                                                                             
@@ -27,8 +27,8 @@
                                                                                                                                                              
   ### 2. Use of Information                                       
                                                                                                                                                              
-  The collected information is used for the following purposes:   
-
+  The collected information is used for the following purposes:                                                                                              
+   
   - To display your favorites and notes personally to you.                                                                                                   
   - To suggest recipes you can make based on the ingredients you have on hand.
   - To identify app errors and improve service quality.                                                                                                      
@@ -39,7 +39,7 @@
   All data you enter into the app belongs entirely to you. Except where required by law, your personal data is never shared, sold, or rented to third        
   parties. Your data is not stored on our remote servers; it is kept securely on your personal device and your private iCloud storage.
                                                                                                                                                              
-  Mocktail Flow does not use any analytics, advertising, or user-tracking tools. No ads are shown in the app.                                                
+  Mocktail does not use any analytics, advertising, or user-tracking tools. No ads are shown in the app.                                                     
    
   ### 4. iCloud Sync                                                                                                                                         
                                                                   
@@ -47,20 +47,20 @@
   is subject to Apple's privacy policy and is protected by Apple's industry-standard encryption. You can disable iCloud sync at any time from **More > 
   iCloud**.                                                                                                                                                  
                                                                   
-  ### 5. Notifications
-
+  ### 5. Notifications                                                                                                                                       
+   
   Cocktail-of-the-day, new recipe, and tip notifications are prepared entirely on your device. Notification content is never sent to any server. You can     
   disable notifications at any time from **More > Notifications**.
                                                                                                                                                              
-  ### 6. Data Security                                            
-
+  ### 6. Data Security                                                                                                                                       
+   
   The security of your data is critically important to us. The system utilizes Apple's industry-standard iCloud encryption and secure infrastructure to      
   protect user data. Since data is never sent to our remote servers, there is no external attack surface.
                                                                                                                                                              
   ### 7. Purchases and Subscriptions (Mocktail+)                                                                                                             
    
-  Mocktail+ subscriptions are processed through the Apple App Store. Mocktail Flow has no access to your payment information (credit card, etc.); this       
-  information is handled only by Apple and is subject to Apple's privacy policy.
+  Mocktail+ subscriptions are processed through the Apple App Store. Mocktail has no access to your payment information (credit card, etc.); this information
+   is handled only by Apple and is subject to Apple's privacy policy.
                                                                                                                                                              
   We verify your subscription status only through Apple StoreKit; the result of this verification (active/inactive) is stored locally on your device. The    
   "Restore Purchases" feature queries Apple's servers to re-activate an existing subscription associated with your Apple ID on the current device.
@@ -72,43 +72,43 @@
                                                                                                                                                              
   ### 9. Children's Privacy                                       
 
-  Mocktail Flow does not knowingly collect personal data from children under the age of 13. The app's content is intended for a general audience and contains
-   no alcohol.
+  Mocktail does not knowingly collect personal data from children under the age of 13. The app's content is intended for a general audience and contains no  
+  alcohol.
                                                                                                                                                              
   ### 10. Changes                                                 
 
   This privacy policy may be updated from time to time. Significant changes will be communicated through app updates, and the "Last Updated" date on this    
   page will be refreshed accordingly.
                                                                                                                                                              
-  ### 11. Contact                                                                                                                                            
-   
+  ### 11. Contact                                                 
+
   For questions or feedback about this privacy policy, please contact us at:                                                                                 
-                                                                  
+   
   📧 **mocktailhelp@gmail.com**                                                                                                                              
-   
-  ---                                                                                                                                                        
                                                                   
-  ## 📄 Terms of Use (EULA)
+  ---
 
-  **Last Updated:** April 26, 2026
-
-  ### 1. Service Description                                                                                                                                 
+  ## 📄 Terms of Use (EULA)                                                                                                                                  
    
-  Mocktail Flow is a mobile application designed to help users discover non-alcoholic cocktail (mocktail) recipes, save favorites and personal notes, see    
-  what recipes they can make with the ingredients they have on hand, and access barista tips.
-                                                                                                                                                             
-  ### 2. Health and Allergy Disclaimer                            
+  **Last Updated:** April 26, 2026                                                                                                                           
+                                                                  
+  ### 1. Service Description
 
-  Mocktail Flow does not provide medical advice, diagnose any health condition, or recommend diets or nutritional plans. The app is solely a recipe discovery
-   and tracking tool.
+  Mocktail is a mobile application designed to help users discover non-alcoholic cocktail (mocktail) recipes, save favorites and personal notes, see what    
+  recipes they can make with the ingredients they have on hand, and access barista tips.
+                                                                                                                                                             
+  ### 2. Health and Allergy Disclaimer                                                                                                                       
+   
+  Mocktail does not provide medical advice, diagnose any health condition, or recommend diets or nutritional plans. The app is solely a recipe discovery and 
+  tracking tool.                                                  
                                                                                                                                                              
   The recipes and nutritional/calorie information provided in the app are for entertainment and inspirational purposes only. They do not constitute medical, 
   nutritional, or dietary advice. If you have any allergies (food allergies, lactose intolerance, fructose intolerance, etc.), chronic conditions (diabetes,
   hypertension, heart conditions, etc.), are pregnant or breastfeeding, are taking any medication that may interact with certain ingredients, or have any    
   dietary restrictions, **review all ingredients yourself before preparation and consult your doctor or a qualified professional when needed**.
 
-  **Mocktail Flow cannot be held responsible in any way for allergic reactions, digestive issues, medication interactions, or any other negative health      
-  outcomes that may arise from preparing or consuming the recipes shown in the app.**
+  **Mocktail cannot be held responsible in any way for allergic reactions, digestive issues, medication interactions, or any other negative health outcomes  
+  that may arise from preparing or consuming the recipes shown in the app.**
                                                                                                                                                              
   ### 3. User Accounts and Data Synchronization                   
 
@@ -129,7 +129,7 @@
                                                                                                                                                              
   ### 5. Notification Disclaimer                                                                                                                             
                                                                                                                                                              
-  Mocktail Flow does not guarantee that reminder and cocktail-of-the-day notifications will be delivered on time. Device settings, battery status, network   
+  Mocktail does not guarantee that reminder and cocktail-of-the-day notifications will be delivered on time. Device settings, battery status, network        
   connectivity, or system updates may affect notification delivery.
                                                                                                                                                              
   ### 6. Intellectual Property                                    
@@ -143,23 +143,22 @@
                                                                                                                                                              
   ### 8. Limitation of Liability                                  
 
-  The app is provided "as is." The recipe and content information within Mocktail Flow is solely based on the editorial data the user accesses through the   
-  app. The app does not provide medical or health advisory services. The ultimate responsibility for actions taken and recipes prepared based on the provided
-   information lies entirely with the user.                                                                                                                  
+  The app is provided "as is." The recipe and content information within Mocktail is solely based on the editorial data the user accesses through the app.   
+  The app does not provide medical or health advisory services. The ultimate responsibility for actions taken and recipes prepared based on the provided
+  information lies entirely with the user.                                                                                                                   
                                                                   
-  **Mocktail Flow cannot be held responsible for any consequences — including but not limited to allergic reactions, digestive problems, medication          
-  interactions, blood sugar fluctuations, or any other negative health outcomes — arising from preparing, consuming, or otherwise using the recipes and 
-  information provided in the app.**                                                                                                                         
+  **Mocktail cannot be held responsible for any consequences — including but not limited to allergic reactions, digestive problems, medication interactions, 
+  blood sugar fluctuations, or any other negative health outcomes — arising from preparing, consuming, or otherwise using the recipes and information 
+  provided in the app.**                                                                                                                                     
                                                                   
-  ### 9. Contact                                                                                                                                             
-   
-  For questions about these terms of use, please contact us at:                                                                                              
-                                                                  
-  📧 **mocktailhelp@gmail.com**
+  ### 9. Contact
 
-  ---
+  For questions about these terms of use, please contact us at:
 
-  ## Contact Support                                                                                                                                         
-   
   📧 **mocktailhelp@gmail.com**                                                                                                                              
- 
+   
+  ---                                                                                                                                                        
+                                                                  
+  ## Contact Support
+
+  📧 **mocktailhelp@gmail.com**         
