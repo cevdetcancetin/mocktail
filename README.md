@@ -12,7 +12,7 @@ If you need any help with the app, found a bug, or have a feature request, pleas
 
 ## 🔒 Privacy Policy
 
-**Last Updated:** August 17, 2026
+**Last Updated:** August 18, 2026
 
 ### 1. Summary
 
@@ -63,7 +63,7 @@ Your email address, name, and user ID are not sent to these providers — only t
 
 To distribute assistant capacity fairly and block automated or fraudulent requests, we keep:
 
-- Your daily and per-minute message counters. These counters are tied to an irreversible cryptographic digest (HMAC) of your email address; your address itself does not appear in that record. The record is deleted automatically after 60 days.
+- Your daily and per-minute message counters. These counters are tied to an irreversible cryptographic digest (HMAC) of your verified email address; your address itself does not appear in that record. If your address is not verified, the counter is tied to your technical user ID instead. The record is deleted automatically after 60 days.
 - Purchase receipts, to prevent the same purchase being credited twice. Deleted automatically after 90 days.
 - An Apple App Attest check (Firebase App Check) verifying the request genuinely comes from the Mocktail app. This check does not reveal your device's identity to us.
 
@@ -115,7 +115,7 @@ For questions or requests about this privacy policy, please contact us at:
 
 ## 📄 Terms of Use (EULA)
 
-**Last Updated:** August 17, 2026
+**Last Updated:** August 18, 2026
 
 ### 1. Service Description
 
